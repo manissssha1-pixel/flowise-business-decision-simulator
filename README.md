@@ -60,4 +60,4 @@ This project uses **four key Flowise nodes**:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/business-decision-simulator.git
+git clone https://github.com/manissssha1-pixel/flowise-business-decision-simulator.git
